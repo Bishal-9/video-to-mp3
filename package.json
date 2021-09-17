@@ -1,5 +1,5 @@
 {
-  "name": "video-to-mp3-converter",
+  "name": "@bishal-9/video-to-mp3-converter",
   "version": "1.0.0",
   "description": "Converts a video file to audio mp3 file",
   "main": "index.js",
