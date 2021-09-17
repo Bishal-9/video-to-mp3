@@ -1,14 +1,20 @@
 {
-  "name": "converter",
+  "name": "video-to-mp3-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converts a video file to audio mp3 file",
   "main": "index.js",
   "scripts": {
     "devStart": "nodemon index.js",
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "video",
+    "mp3",
+    "audio",
+    "converter",
+    "video converter"
+  ],
+  "author": "Bishal Goon",
   "license": "ISC",
   "dependencies": {
     "ffmpeg": "^0.0.4"
